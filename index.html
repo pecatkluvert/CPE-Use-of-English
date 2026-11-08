@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153f35"><meta name="description" content="English grammar practice with reusable JSON units and saved progress.">
+  <title>English Practice — CPE workbook</title><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><a class="brand" href="./"><span class="brand-icon">e.</span> English Practice</a><span class="header-note">YOUR PERSONAL WORKBOOK</span><button id="libraryButton" class="quiet">＋ Add a unit</button></header>
+<div class="layout">
+<aside>
+ <label class="eyebrow" for="unitSelect">YOUR WORKBOOK</label><select id="unitSelect" aria-label="Select unit"></select>
+ <div class="sidebar-heading"><span>EXERCISES</span><span id="exerciseCount"></span></div>
+ <nav id="exerciseNav" aria-label="Exercises"></nav>
+ <div class="local-note"><span class="status-dot"></span> Saved on this browser<br><small>Your practice, at your own pace.</small></div>
+</aside>
+<main id="main">
+ <div class="breadcrumb">CPE WORKBOOK <span>/</span> <span id="unitLabel">UNIT 1A</span></div>
+ <section class="intro"><div><div class="eyebrow">A LITTLE PRACTICE, EVERY DAY</div><h1 id="unitTitle">Grammar: Tenses</h1><p>Build confidence, one exercise at a time.</p></div><div class="unit-badge">C2<span>PROFICIENCY</span></div></section>
+ <section class="stats" aria-label="Unit progress"><div><span class="stat-label">YOUR PROGRESS</span><strong id="progressText">0 / 0</strong><div class="track"><span id="progressBar"></span></div></div><div><span class="stat-label">CORRECT ANSWERS</span><strong id="correctText">0</strong><small id="scoreText">Check answers to see your score</small></div><div><span class="stat-label">PRACTICE MODE</span><strong class="mode">Take your time <span>↗</span></strong><small>No timer. Room to learn.</small></div></section>
+ <div id="message" role="status" aria-live="polite"></div>
+ <section class="exercise-card" id="exerciseCard"><div class="loading">Loading your workbook…</div></section>
+ <div class="bottom-nav"><button id="previous" class="quiet">← Previous exercise</button><span id="position"></span><button id="next" class="quiet">Next exercise →</button></div>
+ <footer><span>Small steps. Stronger English.</span><div><button id="exportProgress" class="text-button">Export progress</button><button id="restoreButton" class="text-button">Restore progress</button><input id="restoreProgress" type="file" accept="application/json,.json" hidden><a href="references/worksheet.pdf" target="_blank">Original worksheet ↗</a><a href="README.md" target="_blank">Setup guide ↗</a></div></footer>
+</main></div>
+<dialog id="library"><form method="dialog"><button class="close quiet" aria-label="Close">✕</button></form><div class="eyebrow">KEEP LEARNING</div><h2>Add your next unit</h2><p>Load a unit JSON from your device, or open a unit already uploaded to this website.</p><label class="file-drop">＋ Import unit JSON<input id="importUnit" type="file" accept="application/json,.json"></label><div class="divider">OR OPEN A HOSTED FILE</div><form id="loadForm"><label for="unitFile">Filename inside the units folder</label><div class="input-row"><input id="unitFile" placeholder="unit-1b.json" pattern="[a-zA-Z0-9_-]+\.json" required><button class="primary">Open unit</button></div></form><p class="fine">New units use the same format as <a href="units/unit-template.json" download>unit-template.json</a>. Imported units and progress stay in this browser. Export progress for a backup.</p></dialog>
+<script type="module" src="app.js"></script>
+</body></html>

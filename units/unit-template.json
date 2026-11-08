@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-1b",
+  "title": "Your next English unit",
+  "subtitle": "Unit 1b · English in Use",
+  "source": "Replace this with the source of your new unit.",
+  "exercises": [
+    {
+      "id": "1",
+      "title": "Gap-fill practice",
+      "instructions": "Put the verb in brackets into the correct tense.",
+      "example": "I have lived here since 2020.",
+      "questions": [
+        { "id": "1", "prompt": "She {{1}} (live) here for five years.", "answers": [["has lived", "has been living"]] },
+        { "id": "2", "prompt": "They {{1}} (arrive) before we {{2}} (leave).", "answers": [["had arrived"], ["left"]] }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Multiple choice",
+      "instructions": "Choose the correct item.",
+      "questions": [
+        { "id": "1", "prompt": "I {{1}} to Paris twice.", "options": { "A": "have been", "B": "have gone", "C": "am going", "D": "go" }, "answers": [["A"]] }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Sentence transformation",
+      "instructions": "Complete the second sentence using the key word. Type only the missing words.",
+      "questions": [
+        { "id": "1", "keyword": "since", "prompt": "She moved here five years ago.\nIt has been five years {{1}} here.", "answers": [["since she moved"]] }
+      ]
+    }
+  ]
+}

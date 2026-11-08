@@ -1,0 +1,1615 @@
+{
+  "schemaVersion": 1,
+  "id": "unit-1a",
+  "title": "Grammar: Tenses",
+  "subtitle": "Unit 1a · CPE Use of English",
+  "source": "User-supplied CPE Use of English, Unit 1a, pages 6–14. Answers from the supplied key.",
+  "exercises": [
+    {
+      "id": "1",
+      "title": "Present tenses",
+      "instructions": "Put the verbs in brackets into the appropriate present tense.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "“Why {{1}} (he/leave)?” “Because he {{2}} (play) football at 6:30 this evening.”",
+          "answers": [
+            [
+              "is he leaving"
+            ],
+            [
+              "is playing"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "Dancers at the ballet school {{1}} (rehearse) for the performance since last November.",
+          "answers": [
+            [
+              "have been rehearsing"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "You {{1}} (not/really/think) I’ll eat this stew! It {{2}} (smell) awful!",
+          "answers": [
+            [
+              "do not really think"
+            ],
+            [
+              "smells"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "I {{1}} (try) to complete that jigsaw for over three months now!",
+          "answers": [
+            [
+              "have been trying"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "“Why {{1}} (you/feel) Annie’s forehead?” “I {{2}} (think) she’s got a temperature.”",
+          "answers": [
+            [
+              "are you feeling"
+            ],
+            [
+              "think"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "The place looks like a bombsite! What {{1}} (do) all day?",
+          "answers": [
+            [
+              "have you been doing"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "Come on John! You {{1}} (know) me since high school! You {{2}} (not/really/believe) I would do such a terrible thing.",
+          "answers": [
+            [
+              "have known"
+            ],
+            [
+              "do not really believe"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "The opposition party {{1}} (appear) to be making ground in the opinion polls.",
+          "answers": [
+            [
+              "appears"
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "prompt": "Randall {{1}} (kick) the ball into the net and it {{2}} (be) a goal!",
+          "answers": [
+            [
+              "kicks"
+            ],
+            [
+              "is"
+            ]
+          ]
+        }
+      ],
+      "example": "Our firm is launching (launch) two new products next week."
+    },
+    {
+      "id": "2",
+      "title": "Been or gone?",
+      "instructions": "Fill in the blanks with have been to, have been in or have gone to in their correct form.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "Mrs Bates {{1}} Cologne. She won’t be back for at least three weeks.",
+          "answers": [
+            [
+              "has gone to"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "Nick {{1}} Wales for three years now, studying for his degree.",
+          "answers": [
+            [
+              "has been in"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "Why don’t you ask Clare about the tropics? She {{1}} Thailand.",
+          "answers": [
+            [
+              "has been to"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "He {{1}} visit his father. I’m afraid you’ve just missed him.",
+          "answers": [
+            [
+              "has gone to"
+            ]
+          ]
+        }
+      ],
+      "example": "I have been to Cambodia three times."
+    },
+    {
+      "id": "3",
+      "title": "An engineer abroad",
+      "instructions": "Put the verbs in brackets into the Present Simple or Present Continuous.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "{{1}} (work)",
+          "answers": [
+            [
+              "works"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "{{1}} (work)",
+          "answers": [
+            [
+              "works"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "{{1}} (supervise)",
+          "answers": [
+            [
+              "is supervising"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "{{1}} (involve)",
+          "answers": [
+            [
+              "involves"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "{{1}} (enjoy)",
+          "answers": [
+            [
+              "is enjoying"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "{{1}} (doubt)",
+          "answers": [
+            [
+              "doubts"
+            ]
+          ]
+        }
+      ],
+      "passage": "Terry Poole (0) is (be) an engineer who [1] for an international aid organisation. Although he normally [2] in Indonesia, at present he [3] a project in Rwanda which [4] the co-ordination of local people, aid workers and engineers like himself. Although he [5] the experience, he [6] the project will be finished soon."
+    },
+    {
+      "id": "4",
+      "title": "The mystery of Stonehenge",
+      "instructions": "Put the verbs in brackets into the Present Perfect or Present Perfect Continuous.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "{{1}} (yet/explain)",
+          "answers": [
+            [
+              "has yet explained"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "{{1}} (excavate)",
+          "answers": [
+            [
+              "have been excavating"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "{{1}} (recently/start)",
+          "answers": [
+            [
+              "have recently started"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "{{1}} (suggest)",
+          "answers": [
+            [
+              "have suggested"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "{{1}} (manage)",
+          "answers": [
+            [
+              "has managed"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "{{1}} (discuss)",
+          "answers": [
+            [
+              "have discussed",
+              "have been discussing"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "{{1}} (come)",
+          "answers": [
+            [
+              "have come",
+              "have been coming"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "{{1}} (also/announce)",
+          "answers": [
+            [
+              "has also announced"
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "prompt": "{{1}} (gather)",
+          "answers": [
+            [
+              "have gathered",
+              "have been gathering"
+            ]
+          ]
+        }
+      ],
+      "passage": "Stonehenge (0) has been (be) the subject of archaeological debate for many years. No one [1] satisfactorily why or how it was built, although teams of experts [2] the site for years and a team of American scientists [3] working in the area with sophisticated new equipment. Popular theories [4] that Stonehenge was built as a temple, but no one [5] to work out how the stones were transported there. A group of students from Bangor University [6] the possibility of re-enacting the journey from Wales, where such stones are to be found, overland to Stonehenge, and sponsors [7] forward with offers of financial assistance. The British Museum [8] a forthcoming exhibition of artefacts from the Stonehenge period, which they [9] over the last five years from all over Northern Europe."
+    },
+    {
+      "id": "5",
+      "title": "Conversational grammar",
+      "instructions": "Choose the correct item.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "“I suppose your report isn’t ready yet.” “Don’t worry. I {{1}} it by tomorrow.”",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "will have been finishing",
+            "B": "will be finishing",
+            "C": "am finishing",
+            "D": "will have finished"
+          }
+        },
+        {
+          "id": "2",
+          "prompt": "“So, are you coming along, after all?” “Well, I don’t know. What time {{1}}?”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "you’re leaving",
+            "B": "will you be leaving",
+            "C": "will you leave",
+            "D": "do you leave"
+          }
+        },
+        {
+          "id": "3",
+          "prompt": "“I’ve called Eddie a half dozen times but he won’t answer the phone.” “Try once more. He {{1}}.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "will sleep",
+            "B": "sleeps",
+            "C": "will be sleeping",
+            "D": "is to be sleeping"
+          }
+        },
+        {
+          "id": "4",
+          "prompt": "“Well, I first came here last June.” “So by the end of May you {{1}} with us for almost a year.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "will have been working",
+            "B": "are going to have worked",
+            "C": "are to work",
+            "D": "will work"
+          }
+        },
+        {
+          "id": "5",
+          "prompt": "“Shall I call Mr Simpson?” “I think he {{1}} now.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "will be working",
+            "B": "is going to work",
+            "C": "is to work",
+            "D": "will work"
+          }
+        },
+        {
+          "id": "6",
+          "prompt": "“Is Nigel still here?” “Yes, but hurry up, he is just {{1}}.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "about to leave",
+            "B": "about leaving",
+            "C": "to be leaving",
+            "D": "to leave"
+          }
+        },
+        {
+          "id": "7",
+          "prompt": "“Do you know it’s Maggie’s birthday today?” “Yes, she {{1}} a party tonight.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "has",
+            "B": "is having",
+            "C": "is to have",
+            "D": "will have"
+          }
+        },
+        {
+          "id": "8",
+          "prompt": "“Doesn’t she feel nervous about having to teach that class?” “I shouldn’t think so as she’s such an experienced teacher. By May she {{1}} teaching for fifteen years.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "is going to be",
+            "B": "has been",
+            "C": "will have been",
+            "D": "is to be"
+          }
+        }
+      ],
+      "example": "“Any news from Tess?” “Yes. She arrives tomorrow on the 9:15 train.” (D)"
+    },
+    {
+      "id": "6",
+      "title": "An election promise",
+      "instructions": "Put the verbs in brackets into an appropriate present or future form.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "{{1}} (give)",
+          "answers": [
+            [
+              "give"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "{{1}} (tackle)",
+          "answers": [
+            [
+              "will tackle"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "{{1}} (serve)",
+          "answers": [
+            [
+              "will have been serving"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "{{1}} (hope)",
+          "answers": [
+            [
+              "hope"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "{{1}} (seem)",
+          "answers": [
+            [
+              "seems"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "{{1}} (go)",
+          "answers": [
+            [
+              "are going"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "{{1}} (be/able)",
+          "answers": [
+            [
+              "will be able"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "{{1}} (not/be)",
+          "answers": [
+            [
+              "is not"
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "prompt": "{{1}} (never/make)",
+          "answers": [
+            [
+              "will never make"
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "prompt": "{{1}} (be)",
+          "answers": [
+            [
+              "will be"
+            ]
+          ]
+        }
+      ],
+      "passage": "“If I (0) am (be) re-elected, I [1] you my word that the first issues I [2] are those of the environment and education. As of next month, I [3] my country in a public capacity for 6 years; I [4] to continue for at least as many more. While the general attitude [5] to be that things in this country [6] from bad to worse, I believe that by the end of my next term of office, we [7] to look back and count the improvements that have been made. In fact, I am so confident that if this [8] the case, I [9] another promise in my life. But I firmly believe that these [10] years of positive change and dramatic improvements.”"
+    },
+    {
+      "id": "7",
+      "title": "Will or going to?",
+      "instructions": "Fill in will or be going to in the correct form.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "A: Sheila {{1}} have an operation next Tuesday.\nB: If you tell me which hospital she’ll be in, I’ll go and visit her.",
+          "answers": [
+            [
+              "is going to"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "A: I have to be at work by 8:30.\nB: But it’s nearly 8:00. You {{1}} be late.",
+          "answers": [
+            [
+              "are going to"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "A: I’m sure I {{1}} pass the course this time.\nB: I hope you do. You’ve worked really hard this term.",
+          "answers": [
+            [
+              "will"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "A: Look at those clouds. It’s definitely going to rain.\nB: Is it? I {{1}} bring the chairs in from the garden, then.",
+          "answers": [
+            [
+              "will"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "A: So, are you ready to go?\nB: I’ve told you a thousand times! I {{1}} come.",
+          "answers": [
+            [
+              "am not going to"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "A: If you buy the flowers, I’ll get some chocolates.\nB: OK, but get a move on or we {{1}} be late.",
+          "answers": [
+            [
+              "are going to"
+            ]
+          ]
+        }
+      ],
+      "example": "A: I’m going to start learning Chinese. B: Are you? Will you let me know what it’s like as I’d like to have a go too?"
+    },
+    {
+      "id": "8",
+      "title": "Past tenses",
+      "instructions": "Put the verbs in brackets into an appropriate past tense.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "Her clothes were soaked because she {{1}} (walk) in the rain.",
+          "answers": [
+            [
+              "had been walking"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "We {{1}} (not/enjoy) the play so we {{2}} (leave) early.",
+          "answers": [
+            [
+              "did not enjoy"
+            ],
+            [
+              "left"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "While you {{1}} (sleep) Joan {{2}} (try) hard to finish her dissertation.",
+          "answers": [
+            [
+              "were sleeping"
+            ],
+            [
+              "was trying"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "Susan and Tom {{1}} (meet) when they {{2}} (study) in Edinburgh 20 years ago.",
+          "answers": [
+            [
+              "met"
+            ],
+            [
+              "were studying"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "In June 1979 they {{1}} (still/build) this shopping centre.",
+          "answers": [
+            [
+              "were still building"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "They {{1}} (walk) to the water’s edge, {{2}} (wade) in and {{3}} (swim) to the other side.",
+          "answers": [
+            [
+              "walked"
+            ],
+            [
+              "waded"
+            ],
+            [
+              "swam"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "While the soldiers {{1}} (advance), they did not realise that the enemy {{2}} (plan) a surprise attack.",
+          "answers": [
+            [
+              "advanced",
+              "were advancing"
+            ],
+            [
+              "was planning",
+              "were planning"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "The politician {{1}} (already/finish) his speech by the time the TV reporter {{2}} (arrive).",
+          "answers": [
+            [
+              "had already finished"
+            ],
+            [
+              "arrived"
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "prompt": "By the time Monica {{1}} (get) to the library, Elena {{2}} (already/do) all the research.",
+          "answers": [
+            [
+              "got"
+            ],
+            [
+              "had already done"
+            ]
+          ]
+        }
+      ],
+      "example": "He walked (walk) to the front of the stage, took (take) a bow and waved (wave) to the audience."
+    },
+    {
+      "id": "9",
+      "title": "Conversational grammar",
+      "instructions": "Choose the correct item.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "“Why didn’t Madeline show up at the party last night?” “When I called her at 11:00, she {{1}}.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "was still studying",
+            "B": "had still been studying",
+            "C": "would still study",
+            "D": "still studied"
+          }
+        },
+        {
+          "id": "2",
+          "prompt": "Did you know that Oscar Wilde {{1}} in Paris during his final years?",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "has been living",
+            "B": "had lived",
+            "C": "had been living",
+            "D": "lived"
+          }
+        },
+        {
+          "id": "3",
+          "prompt": "“You’re looking miserable.” “I {{1}} on my thesis when my computer suddenly crashed.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "was working",
+            "B": "used to work",
+            "C": "would work",
+            "D": "have been working"
+          }
+        },
+        {
+          "id": "4",
+          "prompt": "“Did you hear the rain last night?” “Yes, it {{1}} all night.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "had been pouring",
+            "B": "was pouring",
+            "C": "has poured",
+            "D": "was poured"
+          }
+        },
+        {
+          "id": "5",
+          "prompt": "“Can’t we just order a nice bit of cod?” “Don’t be ridiculous! We {{1}} all this way to eat fish and chips.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "haven’t been coming",
+            "B": "haven’t come",
+            "C": "aren’t coming",
+            "D": "hadn’t come"
+          }
+        },
+        {
+          "id": "6",
+          "prompt": "“I love your car.” “This old thing? We {{1}} it for fifteen years.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "had had",
+            "B": "have been having",
+            "C": "have had",
+            "D": "used to have"
+          }
+        },
+        {
+          "id": "7",
+          "prompt": "“What’s wrong with Robert?” “I don’t know. He {{1}} up, slammed the door and stormed out of the building.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "got",
+            "B": "has got",
+            "C": "was getting",
+            "D": "had got"
+          }
+        },
+        {
+          "id": "8",
+          "prompt": "“Mary is having difficulty fitting in.” “Well, I guess she {{1}} to this type of work.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "didn’t use",
+            "B": "isn’t used",
+            "C": "doesn’t get used",
+            "D": "hasn’t been used"
+          }
+        },
+        {
+          "id": "9",
+          "prompt": "Every Christmas Eve all the family {{1}} the tree together.",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "would have decorated",
+            "B": "would decorate",
+            "C": "had been decorating",
+            "D": "used to decorating"
+          }
+        },
+        {
+          "id": "10",
+          "prompt": "When I lived downtown, I {{1}} to the cinema almost every night.",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "was going",
+            "B": "went",
+            "C": "have been going",
+            "D": "had been going"
+          }
+        },
+        {
+          "id": "11",
+          "prompt": "Sue {{1}} from a severe bout of flu at the time.",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "recovered",
+            "B": "used to recover",
+            "C": "would recover",
+            "D": "was recovering"
+          }
+        },
+        {
+          "id": "12",
+          "prompt": "“How’s Peter doing?” “I don’t know. I {{1}} from him for months.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "have to hear",
+            "B": "didn’t hear",
+            "C": "haven’t heard",
+            "D": "don’t hear"
+          }
+        },
+        {
+          "id": "13",
+          "prompt": "“Ted is so inconsiderate.” “What {{1}} you say that, George?”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "is making",
+            "B": "was making",
+            "C": "makes",
+            "D": "had made"
+          }
+        }
+      ],
+      "example": "“Where’s Christine?” “I don’t know; she left the office fifteen minutes ago.” (A)"
+    },
+    {
+      "id": "10",
+      "title": "Joan’s trip to Paris",
+      "instructions": "Put the verbs in brackets into the appropriate past tense.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "{{1}} (be)",
+          "answers": [
+            [
+              "would have been"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "{{1}} (not/meet)",
+          "answers": [
+            [
+              "had not met"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "{{1}} (be)",
+          "answers": [
+            [
+              "was"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "{{1}} (happen)",
+          "answers": [
+            [
+              "happened"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "{{1}} (plan)",
+          "answers": [
+            [
+              "had planned"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "{{1}} (not/receive)",
+          "answers": [
+            [
+              "had not received"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "{{1}} (try)",
+          "answers": [
+            [
+              "was trying"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "{{1}} (snatch)",
+          "answers": [
+            [
+              "snatched"
+            ]
+          ]
+        },
+        {
+          "id": "9",
+          "prompt": "{{1}} (be)",
+          "answers": [
+            [
+              "was"
+            ]
+          ]
+        },
+        {
+          "id": "10",
+          "prompt": "{{1}} (not/know)",
+          "answers": [
+            [
+              "did not know"
+            ]
+          ]
+        },
+        {
+          "id": "11",
+          "prompt": "{{1}} (happen)",
+          "answers": [
+            [
+              "had happened"
+            ]
+          ]
+        },
+        {
+          "id": "12",
+          "prompt": "{{1}} (approach)",
+          "answers": [
+            [
+              "approached"
+            ]
+          ]
+        },
+        {
+          "id": "13",
+          "prompt": "{{1}} (introduce)",
+          "answers": [
+            [
+              "introduced"
+            ]
+          ]
+        }
+      ],
+      "passage": "If it (0) hadn’t been (not/be) for Louis, Joan’s trip to Paris [1] a complete disaster. She [2] him before, but she [3] certainly glad that she had by the end of her stay. The first thing that [4] was that the hotel where she [5] to stay [6] her booking, so they had no room for her. Then, as she [7] to get a taxi to take her to another hotel, someone on a motorbike [8] her bag with all her tickets and credit cards in it. As her French [9] quite rusty, she [10] how to explain what [11]. It was then that Louis [12] her and [13] himself."
+    },
+    {
+      "id": "11",
+      "title": "Conversational grammar",
+      "instructions": "Choose the correct item.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "“Has Paul come to terms with his examination results?” “Yes. He {{1}} the fact that he’ll have to resit.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "had accepted",
+            "B": "has accepted",
+            "C": "accepted",
+            "D": "has been accepting"
+          }
+        },
+        {
+          "id": "2",
+          "prompt": "“Did you really have an awful time at the Jordans?” “Yes. I {{1}} I’ll ever visit them again.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "don’t think",
+            "B": "am not thinking",
+            "C": "won’t be thinking",
+            "D": "think not"
+          }
+        },
+        {
+          "id": "3",
+          "prompt": "Gerald just can’t {{1}} working shifts.",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "used to",
+            "B": "be used",
+            "C": "get used to",
+            "D": "used to be"
+          }
+        },
+        {
+          "id": "4",
+          "prompt": "Alison feels healthier and fitter than she {{1}}.",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "had",
+            "B": "would",
+            "C": "were",
+            "D": "used to"
+          }
+        },
+        {
+          "id": "5",
+          "prompt": "“Will you {{1}} with the audio-video equipment by 12:30 pm?” “Possibly, but I’ll let you know beforehand.”",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "finish",
+            "B": "finished",
+            "C": "be finishing",
+            "D": "have finished"
+          }
+        },
+        {
+          "id": "6",
+          "prompt": "“George is in hospital.” “Yes, I’ve heard he {{1}} good progress.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "makes",
+            "B": "is making",
+            "C": "will make",
+            "D": "would make"
+          }
+        },
+        {
+          "id": "7",
+          "prompt": "“I’m getting my work permit next week.” “It’s about time. You {{1}} here for two months by then.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "are",
+            "B": "will be",
+            "C": "will have been",
+            "D": "have been"
+          }
+        },
+        {
+          "id": "8",
+          "prompt": "“How do you like your sushi?” “Well, it’s really different. It’s the first time I {{1}} Japanese food.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "have eaten",
+            "B": "eat",
+            "C": "am eating",
+            "D": "have been eating"
+          }
+        },
+        {
+          "id": "9",
+          "prompt": "“Wasn’t sacking Mary rather harsh on his part?” “Not really; he {{1}} her several times in the past.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "had warned",
+            "B": "was warning",
+            "C": "warns",
+            "D": "will warn"
+          }
+        },
+        {
+          "id": "10",
+          "prompt": "“Where’s Jonathan?” “He {{1}} to the travel agent’s.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "has been",
+            "B": "has gone",
+            "C": "has been going",
+            "D": "had gone"
+          }
+        }
+      ],
+      "example": "“Tina is still looking for a decent flat.” “How long has she been looking?” (D)"
+    },
+    {
+      "id": "12",
+      "title": "Collocations",
+      "instructions": "Complete the expressions with words from the list below.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "to {{1}} a wound",
+          "answers": [
+            [
+              "heal"
+            ]
+          ]
+        },
+        {
+          "id": "2",
+          "prompt": "to {{1}} defeat",
+          "answers": [
+            [
+              "concede"
+            ]
+          ]
+        },
+        {
+          "id": "3",
+          "prompt": "to {{1}} a meal",
+          "answers": [
+            [
+              "devour"
+            ]
+          ]
+        },
+        {
+          "id": "4",
+          "prompt": "to {{1}} a city",
+          "answers": [
+            [
+              "raze"
+            ]
+          ]
+        },
+        {
+          "id": "5",
+          "prompt": "to {{1}} the grass",
+          "answers": [
+            [
+              "mow"
+            ]
+          ]
+        },
+        {
+          "id": "6",
+          "prompt": "to {{1}} a speech",
+          "answers": [
+            [
+              "interrupt"
+            ]
+          ]
+        },
+        {
+          "id": "7",
+          "prompt": "to {{1}} the law",
+          "answers": [
+            [
+              "flout"
+            ]
+          ]
+        },
+        {
+          "id": "8",
+          "prompt": "to {{1}} sb’s behaviour",
+          "answers": [
+            [
+              "imitate"
+            ]
+          ]
+        }
+      ],
+      "example": "to squirm with embarrassment",
+      "wordBank": [
+        "flout",
+        "devour",
+        "imitate",
+        "mow",
+        "raze",
+        "concede",
+        "squirm",
+        "interrupt",
+        "heal"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Sentence transformations",
+      "instructions": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Do not change the word given. Use between three and eight words, including the word given. Type only the missing words.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "It’s been months since I last spoke with Paul.\nI haven’t {{1}} months.",
+          "answers": [
+            [
+              "been in contact with Paul for",
+              "had any contact with Paul for"
+            ]
+          ],
+          "keyword": "contact"
+        },
+        {
+          "id": "2",
+          "prompt": "He has never felt so angry before.\nIt’s {{1}} angry.",
+          "answers": [
+            [
+              "the first time he has ever felt so"
+            ]
+          ],
+          "keyword": "ever"
+        },
+        {
+          "id": "3",
+          "prompt": "She was going to hand in her notice when the boss decided to promote her.\nShe {{1}} notice when the boss decided to promote her.",
+          "answers": [
+            [
+              "was on the point of handing in her"
+            ]
+          ],
+          "keyword": "point"
+        },
+        {
+          "id": "4",
+          "prompt": "He has tried to lose weight before.\nIt’s {{1}} a diet.",
+          "answers": [
+            [
+              "not the first time he has gone on",
+              "not the first time he has been on"
+            ]
+          ],
+          "keyword": "first"
+        },
+        {
+          "id": "5",
+          "prompt": "France hasn’t won a gold medal in this sport for ages.\nIt’s {{1}} medal in this sport.",
+          "answers": [
+            [
+              "a long time since France won a gold"
+            ]
+          ],
+          "keyword": "time"
+        },
+        {
+          "id": "6",
+          "prompt": "It is certain that he will compensate you for the damage he has done.\nHe {{1}} to you for the damage he has done.",
+          "answers": [
+            [
+              "is bound to make it up"
+            ]
+          ],
+          "keyword": "bound"
+        },
+        {
+          "id": "7",
+          "prompt": "Stephen realised something terrible had happened as soon as he saw May crying.\nStephen {{1}} as soon as he saw May crying.",
+          "answers": [
+            [
+              "became aware that something terrible had happened",
+              "was aware that something terrible had happened"
+            ]
+          ],
+          "keyword": "aware"
+        }
+      ],
+      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory."
+    },
+    {
+      "id": "14",
+      "title": "Conversational grammar",
+      "instructions": "Choose the correct item.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "“John really ought to lose some weight.” “You’re right; he {{1}} very heavily during the walk yesterday.”",
+          "answers": [
+            [
+              "A"
+            ]
+          ],
+          "options": {
+            "A": "was breathing",
+            "B": "had breathing",
+            "C": "has been breathing",
+            "D": "had been breathing"
+          }
+        },
+        {
+          "id": "2",
+          "prompt": "“I heard Roy and Alice had an argument.” “Do you know what {{1}} it this time?”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "has started",
+            "B": "started",
+            "C": "had been starting",
+            "D": "had started"
+          }
+        },
+        {
+          "id": "3",
+          "prompt": "“I wonder how Jeff is doing.” “I haven’t got a clue. It’s been a long time since I {{1}} to him.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "have spoken",
+            "B": "spoke",
+            "C": "had spoken",
+            "D": "speaking"
+          }
+        },
+        {
+          "id": "4",
+          "prompt": "“It’s a pity she had to pull out of the competition.” “Yes, especially since she {{1}} such excellent progress.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "is making",
+            "B": "made",
+            "C": "had been making",
+            "D": "has been making"
+          }
+        },
+        {
+          "id": "5",
+          "prompt": "“Who’s going to collect your mail while you’re on holiday?” “I have {{1}} asked my cousin.”",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "ever",
+            "B": "still",
+            "C": "yet",
+            "D": "already"
+          }
+        },
+        {
+          "id": "6",
+          "prompt": "“Did you get to see Frances in the end?” “No. She {{1}} for the airport when I arrived at her home.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "would leave",
+            "B": "had been leaving",
+            "C": "had already left",
+            "D": "left"
+          }
+        },
+        {
+          "id": "7",
+          "prompt": "“Helen moved to London last week.” “Well, I suppose she’ll find it difficult to {{1}} on the left.”",
+          "answers": [
+            [
+              "C"
+            ]
+          ],
+          "options": {
+            "A": "be used to driving",
+            "B": "use to drive",
+            "C": "get used to driving",
+            "D": "be used to drive"
+          }
+        },
+        {
+          "id": "8",
+          "prompt": "“How long have you been with Sears Ltd?” “By next month I {{1}} there for a year.”",
+          "answers": [
+            [
+              "D"
+            ]
+          ],
+          "options": {
+            "A": "will be working",
+            "B": "have worked",
+            "C": "am going to work",
+            "D": "will have been working"
+          }
+        },
+        {
+          "id": "9",
+          "prompt": "“Did you stay up late yesterday?” “Not really. I went to bed after Monica {{1}}.”",
+          "answers": [
+            [
+              "B"
+            ]
+          ],
+          "options": {
+            "A": "was leaving",
+            "B": "had left",
+            "C": "leaving",
+            "D": "has left"
+          }
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Sentence transformations",
+      "instructions": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Do not change the word given. Use between three and eight words, including the word given. Type only the missing words.",
+      "questions": [
+        {
+          "id": "1",
+          "prompt": "I believe the man you’re looking for is standing next to us.\nI {{1}} to us is the one you’re looking for.",
+          "answers": [
+            [
+              "have a feeling that the man standing next"
+            ]
+          ],
+          "keyword": "feeling"
+        },
+        {
+          "id": "2",
+          "prompt": "Jeremy joined the cricket club a year ago.\nJeremy’s {{1}} a year.",
+          "answers": [
+            [
+              "been a member of the cricket club for"
+            ]
+          ],
+          "keyword": "member"
+        },
+        {
+          "id": "3",
+          "prompt": "It was proposed that a new leisure centre should be built.\nThey {{1}} to build a new leisure centre.",
+          "answers": [
+            [
+              "put forward a proposal"
+            ]
+          ],
+          "keyword": "forward"
+        },
+        {
+          "id": "4",
+          "prompt": "The elections take place next Sunday.\nThe {{1}} next Sunday.",
+          "answers": [
+            [
+              "elections are scheduled for",
+              "elections are scheduled to take place"
+            ]
+          ],
+          "keyword": "scheduled"
+        },
+        {
+          "id": "5",
+          "prompt": "I believe there will be an economic crisis soon.\nIn {{1}} imminent.",
+          "answers": [
+            [
+              "my estimation an economic crisis is"
+            ]
+          ],
+          "keyword": "estimation"
+        },
+        {
+          "id": "6",
+          "prompt": "The final question in part 6 wasn’t answered correctly by anyone.\nNobody {{1}} the final question in part 6.",
+          "answers": [
+            [
+              "could correctly answer",
+              "could give a correct answer to"
+            ]
+          ],
+          "keyword": "answer"
+        },
+        {
+          "id": "7",
+          "prompt": "Mozart started composing music during his early childhood.\nMozart {{1}} child.",
+          "answers": [
+            [
+              "started composing music as a young"
+            ]
+          ],
+          "keyword": "young"
+        },
+        {
+          "id": "8",
+          "prompt": "According to Dr Donovan, Rosie is bound to be offered the position.\nAccording to Dr Donovan, {{1}} the position.",
+          "answers": [
+            [
+              "there is no doubt Rosie will be offered"
+            ]
+          ],
+          "keyword": "doubt"
+        },
+        {
+          "id": "9",
+          "prompt": "He’s been writing the novel for nearly two years.\nIt is {{1}} the novel.",
+          "answers": [
+            [
+              "nearly two years since he started",
+              "nearly two years since he started writing"
+            ]
+          ],
+          "keyword": "started"
+        }
+      ],
+      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory."
+    }
+  ]
+}
