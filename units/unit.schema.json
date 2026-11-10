@@ -40,6 +40,50 @@
       "items": {
         "$ref": "#/$defs/exercise"
       }
+    },
+    "lessons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "sections"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "heading",
+                "explanation",
+                "examples"
+              ],
+              "properties": {
+                "heading": {
+                  "type": "string"
+                },
+                "explanation": {
+                  "type": "string"
+                },
+                "examples": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "$defs": {
@@ -82,6 +126,18 @@
           "items": {
             "$ref": "#/$defs/question"
           }
+        },
+        "lessonIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "guidance": {
+          "type": "string"
+        },
+        "answerSource": {
+          "type": "string"
         }
       }
     },
@@ -120,6 +176,9 @@
           "additionalProperties": {
             "type": "string"
           }
+        },
+        "hint": {
+          "type": "string"
         }
       }
     }

@@ -20,7 +20,8 @@
             [
               "is playing"
             ]
-          ]
+          ],
+          "hint": "An arrangement for this evening uses the continuous form; remember question word order."
         },
         {
           "id": "2",
@@ -29,7 +30,8 @@
             [
               "have been rehearsing"
             ]
-          ]
+          ],
+          "hint": "Since last November gives a starting point for an activity still continuing."
         },
         {
           "id": "3",
@@ -41,7 +43,8 @@
             [
               "smells"
             ]
-          ]
+          ],
+          "hint": "Think and smell describe states in this sentence, rather than deliberate activities."
         },
         {
           "id": "4",
@@ -50,7 +53,8 @@
             [
               "have been trying"
             ]
-          ]
+          ],
+          "hint": "For over three months emphasises how long an ongoing activity has lasted."
         },
         {
           "id": "5",
@@ -62,7 +66,8 @@
             [
               "think"
             ]
-          ]
+          ],
+          "hint": "Feeling a forehead is an action; thinking that somebody has a temperature is a belief."
         },
         {
           "id": "6",
@@ -71,7 +76,8 @@
             [
               "have you been doing"
             ]
-          ]
+          ],
+          "hint": "There is visible evidence now of an activity lasting all day."
         },
         {
           "id": "7",
@@ -83,7 +89,8 @@
             [
               "do not really believe"
             ]
-          ]
+          ],
+          "hint": "Know and believe describe states; since high school links the past to now."
         },
         {
           "id": "8",
@@ -92,7 +99,8 @@
             [
               "appears"
             ]
-          ]
+          ],
+          "hint": "Appear describes an impression or state here."
         },
         {
           "id": "9",
@@ -104,10 +112,16 @@
             [
               "is"
             ]
-          ]
+          ],
+          "hint": "Live sports commentary uses the simple tense for dramatic narration."
         }
       ],
-      "example": "Our firm is launching (launch) two new products next week."
+      "example": "Our firm is launching (launch) two new products next week.",
+      "lessonIds": [
+        "present",
+        "states"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "2",
@@ -121,7 +135,8 @@
             [
               "has gone to"
             ]
-          ]
+          ],
+          "hint": "Has the person returned, stayed there for a period, or left without returning? Check the second sentence for evidence."
         },
         {
           "id": "2",
@@ -130,7 +145,8 @@
             [
               "has been in"
             ]
-          ]
+          ],
+          "hint": "Has the person returned, stayed there for a period, or left without returning? Check the second sentence for evidence."
         },
         {
           "id": "3",
@@ -139,7 +155,8 @@
             [
               "has been to"
             ]
-          ]
+          ],
+          "hint": "Has the person returned, stayed there for a period, or left without returning? Check the second sentence for evidence."
         },
         {
           "id": "4",
@@ -148,10 +165,15 @@
             [
               "has gone to"
             ]
-          ]
+          ],
+          "hint": "Has the person returned, stayed there for a period, or left without returning? Check the second sentence for evidence."
         }
       ],
-      "example": "I have been to Cambodia three times."
+      "example": "I have been to Cambodia three times.",
+      "lessonIds": [
+        "states"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "3",
@@ -160,60 +182,71 @@
       "questions": [
         {
           "id": "1",
-          "prompt": "{{1}} (work)",
+          "prompt": "Terry Poole (0) is (be) an engineer who {{1}} for an international aid organisation. (work)",
           "answers": [
             [
               "works"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
-          "prompt": "{{1}} (work)",
+          "prompt": "Although he normally {{1}} in Indonesia, at present he [3] a project in Rwanda which [4] the co-ordination of local people, aid workers and engineers like himself. (work)",
           "answers": [
             [
               "works"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
-          "prompt": "{{1}} (supervise)",
+          "prompt": "Although he normally [2] in Indonesia, at present he {{1}} a project in Rwanda which [4] the co-ordination of local people, aid workers and engineers like himself. (supervise)",
           "answers": [
             [
               "is supervising"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
-          "prompt": "{{1}} (involve)",
+          "prompt": "Although he normally [2] in Indonesia, at present he [3] a project in Rwanda which {{1}} the co-ordination of local people, aid workers and engineers like himself. (involve)",
           "answers": [
             [
               "involves"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
-          "prompt": "{{1}} (enjoy)",
+          "prompt": "Although he {{1}} the experience, he [6] the project will be finished soon. (enjoy)",
           "answers": [
             [
               "is enjoying"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
-          "prompt": "{{1}} (doubt)",
+          "prompt": "Although he [5] the experience, he {{1}} the project will be finished soon. (doubt)",
           "answers": [
             [
               "doubts"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "passage": "Terry Poole (0) is (be) an engineer who [1] for an international aid organisation. Although he normally [2] in Indonesia, at present he [3] a project in Rwanda which [4] the co-ordination of local people, aid workers and engineers like himself. Although he [5] the experience, he [6] the project will be finished soon."
+      "passage": "Terry Poole (0) is (be) an engineer who [1] for an international aid organisation. Although he normally [2] in Indonesia, at present he [3] a project in Rwanda which [4] the co-ordination of local people, aid workers and engineers like himself. Although he [5] the experience, he [6] the project will be finished soon.",
+      "lessonIds": [
+        "present",
+        "states"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "4",
@@ -222,90 +255,103 @@
       "questions": [
         {
           "id": "1",
-          "prompt": "{{1}} (yet/explain)",
+          "prompt": "No one {{1}} satisfactorily why or how it was built, although teams of experts [2] the site for years and a team of American scientists [3] working in the area with sophisticated new equipment. (yet/explain)",
           "answers": [
             [
               "has yet explained"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
-          "prompt": "{{1}} (excavate)",
+          "prompt": "No one [1] satisfactorily why or how it was built, although teams of experts {{1}} the site for years and a team of American scientists [3] working in the area with sophisticated new equipment. (excavate)",
           "answers": [
             [
               "have been excavating"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
-          "prompt": "{{1}} (recently/start)",
+          "prompt": "No one [1] satisfactorily why or how it was built, although teams of experts [2] the site for years and a team of American scientists {{1}} working in the area with sophisticated new equipment. (recently/start)",
           "answers": [
             [
               "have recently started"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
-          "prompt": "{{1}} (suggest)",
+          "prompt": "Popular theories {{1}} that Stonehenge was built as a temple, but no one [5] to work out how the stones were transported there. (suggest)",
           "answers": [
             [
               "have suggested"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
-          "prompt": "{{1}} (manage)",
+          "prompt": "Popular theories [4] that Stonehenge was built as a temple, but no one {{1}} to work out how the stones were transported there. (manage)",
           "answers": [
             [
               "has managed"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
-          "prompt": "{{1}} (discuss)",
+          "prompt": "A group of students from Bangor University {{1}} the possibility of re-enacting the journey from Wales, where such stones are to be found, overland to Stonehenge, and sponsors [7] forward with offers of financial assistance. (discuss)",
           "answers": [
             [
               "have discussed",
               "have been discussing"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
-          "prompt": "{{1}} (come)",
+          "prompt": "A group of students from Bangor University [6] the possibility of re-enacting the journey from Wales, where such stones are to be found, overland to Stonehenge, and sponsors {{1}} forward with offers of financial assistance. (come)",
           "answers": [
             [
               "have come",
               "have been coming"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
-          "prompt": "{{1}} (also/announce)",
+          "prompt": "The British Museum {{1}} a forthcoming exhibition of artefacts from the Stonehenge period, which they [9] over the last five years from all over Northern Europe. (also/announce)",
           "answers": [
             [
               "has also announced"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
-          "prompt": "{{1}} (gather)",
+          "prompt": "The British Museum [8] a forthcoming exhibition of artefacts from the Stonehenge period, which they {{1}} over the last five years from all over Northern Europe. (gather)",
           "answers": [
             [
               "have gathered",
               "have been gathering"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "passage": "Stonehenge (0) has been (be) the subject of archaeological debate for many years. No one [1] satisfactorily why or how it was built, although teams of experts [2] the site for years and a team of American scientists [3] working in the area with sophisticated new equipment. Popular theories [4] that Stonehenge was built as a temple, but no one [5] to work out how the stones were transported there. A group of students from Bangor University [6] the possibility of re-enacting the journey from Wales, where such stones are to be found, overland to Stonehenge, and sponsors [7] forward with offers of financial assistance. The British Museum [8] a forthcoming exhibition of artefacts from the Stonehenge period, which they [9] over the last five years from all over Northern Europe."
+      "passage": "Stonehenge (0) has been (be) the subject of archaeological debate for many years. No one [1] satisfactorily why or how it was built, although teams of experts [2] the site for years and a team of American scientists [3] working in the area with sophisticated new equipment. Popular theories [4] that Stonehenge was built as a temple, but no one [5] to work out how the stones were transported there. A group of students from Bangor University [6] the possibility of re-enacting the journey from Wales, where such stones are to be found, overland to Stonehenge, and sponsors [7] forward with offers of financial assistance. The British Museum [8] a forthcoming exhibition of artefacts from the Stonehenge period, which they [9] over the last five years from all over Northern Europe.",
+      "lessonIds": [
+        "present"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "5",
@@ -325,7 +371,8 @@
             "B": "will be finishing",
             "C": "am finishing",
             "D": "will have finished"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
@@ -340,7 +387,8 @@
             "B": "will you be leaving",
             "C": "will you leave",
             "D": "do you leave"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
@@ -355,7 +403,8 @@
             "B": "sleeps",
             "C": "will be sleeping",
             "D": "is to be sleeping"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
@@ -370,7 +419,8 @@
             "B": "are going to have worked",
             "C": "are to work",
             "D": "will work"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
@@ -385,7 +435,8 @@
             "B": "is going to work",
             "C": "is to work",
             "D": "will work"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
@@ -400,7 +451,8 @@
             "B": "about leaving",
             "C": "to be leaving",
             "D": "to leave"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
@@ -415,7 +467,8 @@
             "B": "is having",
             "C": "is to have",
             "D": "will have"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
@@ -430,10 +483,15 @@
             "B": "has been",
             "C": "will have been",
             "D": "is to be"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "example": "“Any news from Tess?” “Yes. She arrives tomorrow on the 9:15 train.” (D)"
+      "example": "“Any news from Tess?” “Yes. She arrives tomorrow on the 9:15 train.” (D)",
+      "lessonIds": [
+        "future"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "6",
@@ -442,96 +500,110 @@
       "questions": [
         {
           "id": "1",
-          "prompt": "{{1}} (give)",
+          "prompt": "“If I (0) am (be) re-elected, I {{1}} you my word that the first issues I [2] are those of the environment and education. (give)",
           "answers": [
             [
               "give"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
-          "prompt": "{{1}} (tackle)",
+          "prompt": "“If I (0) am (be) re-elected, I [1] you my word that the first issues I {{1}} are those of the environment and education. (tackle)",
           "answers": [
             [
               "will tackle"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
-          "prompt": "{{1}} (serve)",
+          "prompt": "As of next month, I {{1}} my country in a public capacity for 6 years; I [4] to continue for at least as many more. (serve)",
           "answers": [
             [
               "will have been serving"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
-          "prompt": "{{1}} (hope)",
+          "prompt": "As of next month, I [3] my country in a public capacity for 6 years; I {{1}} to continue for at least as many more. (hope)",
           "answers": [
             [
               "hope"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
-          "prompt": "{{1}} (seem)",
+          "prompt": "While the general attitude {{1}} to be that things in this country [6] from bad to worse, I believe that by the end of my next term of office, we [7] to look back and count the improvements that have been made. (seem)",
           "answers": [
             [
               "seems"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
-          "prompt": "{{1}} (go)",
+          "prompt": "While the general attitude [5] to be that things in this country {{1}} from bad to worse, I believe that by the end of my next term of office, we [7] to look back and count the improvements that have been made. (go)",
           "answers": [
             [
               "are going"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
-          "prompt": "{{1}} (be/able)",
+          "prompt": "While the general attitude [5] to be that things in this country [6] from bad to worse, I believe that by the end of my next term of office, we {{1}} to look back and count the improvements that have been made. (be/able)",
           "answers": [
             [
               "will be able"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
-          "prompt": "{{1}} (not/be)",
+          "prompt": "In fact, I am so confident that if this {{1}} the case, I [9] another promise in my life. (not/be)",
           "answers": [
             [
               "is not"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
-          "prompt": "{{1}} (never/make)",
+          "prompt": "In fact, I am so confident that if this [8] the case, I {{1}} another promise in my life. (never/make)",
           "answers": [
             [
               "will never make"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "10",
-          "prompt": "{{1}} (be)",
+          "prompt": "But I firmly believe that these {{1}} years of positive change and dramatic improvements.” (be)",
           "answers": [
             [
               "will be"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "passage": "“If I (0) am (be) re-elected, I [1] you my word that the first issues I [2] are those of the environment and education. As of next month, I [3] my country in a public capacity for 6 years; I [4] to continue for at least as many more. While the general attitude [5] to be that things in this country [6] from bad to worse, I believe that by the end of my next term of office, we [7] to look back and count the improvements that have been made. In fact, I am so confident that if this [8] the case, I [9] another promise in my life. But I firmly believe that these [10] years of positive change and dramatic improvements.”"
+      "passage": "“If I (0) am (be) re-elected, I [1] you my word that the first issues I [2] are those of the environment and education. As of next month, I [3] my country in a public capacity for 6 years; I [4] to continue for at least as many more. While the general attitude [5] to be that things in this country [6] from bad to worse, I believe that by the end of my next term of office, we [7] to look back and count the improvements that have been made. In fact, I am so confident that if this [8] the case, I [9] another promise in my life. But I firmly believe that these [10] years of positive change and dramatic improvements.”",
+      "lessonIds": [
+        "future"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "7",
@@ -545,7 +617,8 @@
             [
               "is going to"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
@@ -554,7 +627,8 @@
             [
               "are going to"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
@@ -563,7 +637,8 @@
             [
               "will"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
@@ -572,7 +647,8 @@
             [
               "will"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
@@ -581,7 +657,8 @@
             [
               "am not going to"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
@@ -590,10 +667,15 @@
             [
               "are going to"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "example": "A: I’m going to start learning Chinese. B: Are you? Will you let me know what it’s like as I’d like to have a go too?"
+      "example": "A: I’m going to start learning Chinese. B: Are you? Will you let me know what it’s like as I’d like to have a go too?",
+      "lessonIds": [
+        "future"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "8",
@@ -607,7 +689,8 @@
             [
               "had been walking"
             ]
-          ]
+          ],
+          "hint": "The wet clothes are the past result of an earlier activity."
         },
         {
           "id": "2",
@@ -619,7 +702,8 @@
             [
               "left"
             ]
-          ]
+          ],
+          "hint": "Both actions are completed events, in sequence."
         },
         {
           "id": "3",
@@ -631,7 +715,8 @@
             [
               "was trying"
             ]
-          ]
+          ],
+          "hint": "While introduces two activities happening at the same time."
         },
         {
           "id": "4",
@@ -643,7 +728,8 @@
             [
               "were studying"
             ]
-          ]
+          ],
+          "hint": "Meeting is a completed event against the background of studying."
         },
         {
           "id": "5",
@@ -652,7 +738,8 @@
             [
               "were still building"
             ]
-          ]
+          ],
+          "hint": "Still building describes an activity in progress at the stated past time."
         },
         {
           "id": "6",
@@ -667,7 +754,8 @@
             [
               "swam"
             ]
-          ]
+          ],
+          "hint": "These are three completed actions in sequence."
         },
         {
           "id": "7",
@@ -681,7 +769,8 @@
               "was planning",
               "were planning"
             ]
-          ]
+          ],
+          "hint": "The advance is background; the planning was taking place at the same time."
         },
         {
           "id": "8",
@@ -693,7 +782,8 @@
             [
               "arrived"
             ]
-          ]
+          ],
+          "hint": "By the time separates an earlier completed speech from a later arrival."
         },
         {
           "id": "9",
@@ -705,10 +795,15 @@
             [
               "had already done"
             ]
-          ]
+          ],
+          "hint": "Which happened first: reaching the library or completing the research?"
         }
       ],
-      "example": "He walked (walk) to the front of the stage, took (take) a bow and waved (wave) to the audience."
+      "example": "He walked (walk) to the front of the stage, took (take) a bow and waved (wave) to the audience.",
+      "lessonIds": [
+        "past"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "9",
@@ -728,7 +823,8 @@
             "B": "had still been studying",
             "C": "would still study",
             "D": "still studied"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
@@ -743,7 +839,8 @@
             "B": "had lived",
             "C": "had been living",
             "D": "lived"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
@@ -758,7 +855,8 @@
             "B": "used to work",
             "C": "would work",
             "D": "have been working"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
@@ -773,7 +871,8 @@
             "B": "was pouring",
             "C": "has poured",
             "D": "was poured"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
@@ -788,7 +887,8 @@
             "B": "haven’t come",
             "C": "aren’t coming",
             "D": "hadn’t come"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
@@ -803,7 +903,8 @@
             "B": "have been having",
             "C": "have had",
             "D": "used to have"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
@@ -818,7 +919,8 @@
             "B": "has got",
             "C": "was getting",
             "D": "had got"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
@@ -833,7 +935,8 @@
             "B": "isn’t used",
             "C": "doesn’t get used",
             "D": "hasn’t been used"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
@@ -848,7 +951,8 @@
             "B": "would decorate",
             "C": "had been decorating",
             "D": "used to decorating"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "10",
@@ -863,7 +967,8 @@
             "B": "went",
             "C": "have been going",
             "D": "had been going"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "11",
@@ -878,7 +983,8 @@
             "B": "used to recover",
             "C": "would recover",
             "D": "was recovering"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "12",
@@ -893,7 +999,8 @@
             "B": "didn’t hear",
             "C": "haven’t heard",
             "D": "don’t hear"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "13",
@@ -908,10 +1015,16 @@
             "B": "was making",
             "C": "makes",
             "D": "had made"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "example": "“Where’s Christine?” “I don’t know; she left the office fifteen minutes ago.” (A)"
+      "example": "“Where’s Christine?” “I don’t know; she left the office fifteen minutes ago.” (A)",
+      "lessonIds": [
+        "past",
+        "present"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "10",
@@ -920,123 +1033,140 @@
       "questions": [
         {
           "id": "1",
-          "prompt": "{{1}} (be)",
+          "prompt": "If it (0) hadn’t been (not/be) for Louis, Joan’s trip to Paris {{1}} a complete disaster. (be)",
           "answers": [
             [
               "would have been"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
-          "prompt": "{{1}} (not/meet)",
+          "prompt": "She {{1}} him before, but she [3] certainly glad that she had by the end of her stay. (not/meet)",
           "answers": [
             [
               "had not met"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
-          "prompt": "{{1}} (be)",
+          "prompt": "She [2] him before, but she {{1}} certainly glad that she had by the end of her stay. (be)",
           "answers": [
             [
               "was"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
-          "prompt": "{{1}} (happen)",
+          "prompt": "The first thing that {{1}} was that the hotel where she [5] to stay [6] her booking, so they had no room for her. (happen)",
           "answers": [
             [
               "happened"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
-          "prompt": "{{1}} (plan)",
+          "prompt": "The first thing that [4] was that the hotel where she {{1}} to stay [6] her booking, so they had no room for her. (plan)",
           "answers": [
             [
               "had planned"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
-          "prompt": "{{1}} (not/receive)",
+          "prompt": "The first thing that [4] was that the hotel where she [5] to stay {{1}} her booking, so they had no room for her. (not/receive)",
           "answers": [
             [
               "had not received"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
-          "prompt": "{{1}} (try)",
+          "prompt": "Then, as she {{1}} to get a taxi to take her to another hotel, someone on a motorbike [8] her bag with all her tickets and credit cards in it. (try)",
           "answers": [
             [
               "was trying"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
-          "prompt": "{{1}} (snatch)",
+          "prompt": "Then, as she [7] to get a taxi to take her to another hotel, someone on a motorbike {{1}} her bag with all her tickets and credit cards in it. (snatch)",
           "answers": [
             [
               "snatched"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
-          "prompt": "{{1}} (be)",
+          "prompt": "As her French {{1}} quite rusty, she [10] how to explain what [11]. (be)",
           "answers": [
             [
               "was"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "10",
-          "prompt": "{{1}} (not/know)",
+          "prompt": "As her French [9] quite rusty, she {{1}} how to explain what [11]. (not/know)",
           "answers": [
             [
               "did not know"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "11",
-          "prompt": "{{1}} (happen)",
+          "prompt": "As her French [9] quite rusty, she [10] how to explain what {{1}}. (happen)",
           "answers": [
             [
               "had happened"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "12",
-          "prompt": "{{1}} (approach)",
+          "prompt": "It was then that Louis {{1}} her and [13] himself. (approach)",
           "answers": [
             [
               "approached"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "13",
-          "prompt": "{{1}} (introduce)",
+          "prompt": "It was then that Louis [12] her and {{1}} himself. (introduce)",
           "answers": [
             [
               "introduced"
             ]
-          ]
+          ],
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "passage": "If it (0) hadn’t been (not/be) for Louis, Joan’s trip to Paris [1] a complete disaster. She [2] him before, but she [3] certainly glad that she had by the end of her stay. The first thing that [4] was that the hotel where she [5] to stay [6] her booking, so they had no room for her. Then, as she [7] to get a taxi to take her to another hotel, someone on a motorbike [8] her bag with all her tickets and credit cards in it. As her French [9] quite rusty, she [10] how to explain what [11]. It was then that Louis [12] her and [13] himself."
+      "passage": "If it (0) hadn’t been (not/be) for Louis, Joan’s trip to Paris [1] a complete disaster. She [2] him before, but she [3] certainly glad that she had by the end of her stay. The first thing that [4] was that the hotel where she [5] to stay [6] her booking, so they had no room for her. Then, as she [7] to get a taxi to take her to another hotel, someone on a motorbike [8] her bag with all her tickets and credit cards in it. As her French [9] quite rusty, she [10] how to explain what [11]. It was then that Louis [12] her and [13] himself.",
+      "lessonIds": [
+        "past"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "11",
@@ -1056,7 +1186,8 @@
             "B": "has accepted",
             "C": "accepted",
             "D": "has been accepting"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
@@ -1071,7 +1202,8 @@
             "B": "am not thinking",
             "C": "won’t be thinking",
             "D": "think not"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
@@ -1086,7 +1218,8 @@
             "B": "be used",
             "C": "get used to",
             "D": "used to be"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
@@ -1101,7 +1234,8 @@
             "B": "would",
             "C": "were",
             "D": "used to"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
@@ -1116,7 +1250,8 @@
             "B": "finished",
             "C": "be finishing",
             "D": "have finished"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
@@ -1131,7 +1266,8 @@
             "B": "is making",
             "C": "will make",
             "D": "would make"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
@@ -1146,7 +1282,8 @@
             "B": "will be",
             "C": "will have been",
             "D": "have been"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
@@ -1161,7 +1298,8 @@
             "B": "eat",
             "C": "am eating",
             "D": "have been eating"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
@@ -1176,7 +1314,8 @@
             "B": "was warning",
             "C": "warns",
             "D": "will warn"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "10",
@@ -1191,10 +1330,17 @@
             "B": "has gone",
             "C": "has been going",
             "D": "had gone"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
       ],
-      "example": "“Tina is still looking for a decent flat.” “How long has she been looking?” (D)"
+      "example": "“Tina is still looking for a decent flat.” “How long has she been looking?” (D)",
+      "lessonIds": [
+        "past",
+        "present",
+        "future"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "12",
@@ -1208,7 +1354,8 @@
             [
               "heal"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "2",
@@ -1217,7 +1364,8 @@
             [
               "concede"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "3",
@@ -1226,7 +1374,8 @@
             [
               "devour"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "4",
@@ -1235,7 +1384,8 @@
             [
               "raze"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "5",
@@ -1244,7 +1394,8 @@
             [
               "mow"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "6",
@@ -1253,7 +1404,8 @@
             [
               "interrupt"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "7",
@@ -1262,7 +1414,8 @@
             [
               "flout"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         },
         {
           "id": "8",
@@ -1271,7 +1424,8 @@
             [
               "imitate"
             ]
-          ]
+          ],
+          "hint": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
         }
       ],
       "example": "to squirm with embarrassment",
@@ -1285,7 +1439,11 @@
         "squirm",
         "interrupt",
         "heal"
-      ]
+      ],
+      "lessonIds": [
+        "collocations"
+      ],
+      "guidance": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
     },
     {
       "id": "13",
@@ -1301,7 +1459,8 @@
               "had any contact with Paul for"
             ]
           ],
-          "keyword": "contact"
+          "keyword": "contact",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "2",
@@ -1311,7 +1470,8 @@
               "the first time he has ever felt so"
             ]
           ],
-          "keyword": "ever"
+          "keyword": "ever",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "3",
@@ -1321,7 +1481,8 @@
               "was on the point of handing in her"
             ]
           ],
-          "keyword": "point"
+          "keyword": "point",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "4",
@@ -1332,7 +1493,8 @@
               "not the first time he has been on"
             ]
           ],
-          "keyword": "first"
+          "keyword": "first",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "5",
@@ -1342,7 +1504,8 @@
               "a long time since France won a gold"
             ]
           ],
-          "keyword": "time"
+          "keyword": "time",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "6",
@@ -1352,7 +1515,8 @@
               "is bound to make it up"
             ]
           ],
-          "keyword": "bound"
+          "keyword": "bound",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "7",
@@ -1363,10 +1527,15 @@
               "was aware that something terrible had happened"
             ]
           ],
-          "keyword": "aware"
+          "keyword": "aware",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         }
       ],
-      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory."
+      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory.",
+      "lessonIds": [
+        "conversion"
+      ],
+      "guidance": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
     },
     {
       "id": "14",
@@ -1386,7 +1555,8 @@
             "B": "had breathing",
             "C": "has been breathing",
             "D": "had been breathing"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "2",
@@ -1401,7 +1571,8 @@
             "B": "started",
             "C": "had been starting",
             "D": "had started"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "3",
@@ -1416,7 +1587,8 @@
             "B": "spoke",
             "C": "had spoken",
             "D": "speaking"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "4",
@@ -1431,7 +1603,8 @@
             "B": "made",
             "C": "had been making",
             "D": "has been making"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "5",
@@ -1446,7 +1619,8 @@
             "B": "still",
             "C": "yet",
             "D": "already"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "6",
@@ -1461,7 +1635,8 @@
             "B": "had been leaving",
             "C": "had already left",
             "D": "left"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "7",
@@ -1476,7 +1651,8 @@
             "B": "use to drive",
             "C": "get used to driving",
             "D": "be used to drive"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "8",
@@ -1491,7 +1667,8 @@
             "B": "have worked",
             "C": "am going to work",
             "D": "will have been working"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         },
         {
           "id": "9",
@@ -1506,9 +1683,16 @@
             "B": "had left",
             "C": "leaving",
             "D": "has left"
-          }
+          },
+          "hint": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
         }
-      ]
+      ],
+      "lessonIds": [
+        "past",
+        "present",
+        "future"
+      ],
+      "guidance": "Read the whole sentence first. Identify the time reference and whether the verb describes a state, a completed result or an activity in progress. Type only the missing words."
     },
     {
       "id": "15",
@@ -1523,7 +1707,8 @@
               "have a feeling that the man standing next"
             ]
           ],
-          "keyword": "feeling"
+          "keyword": "feeling",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "2",
@@ -1533,7 +1718,8 @@
               "been a member of the cricket club for"
             ]
           ],
-          "keyword": "member"
+          "keyword": "member",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "3",
@@ -1543,7 +1729,8 @@
               "put forward a proposal"
             ]
           ],
-          "keyword": "forward"
+          "keyword": "forward",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "4",
@@ -1554,7 +1741,8 @@
               "elections are scheduled to take place"
             ]
           ],
-          "keyword": "scheduled"
+          "keyword": "scheduled",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "5",
@@ -1564,7 +1752,8 @@
               "my estimation an economic crisis is"
             ]
           ],
-          "keyword": "estimation"
+          "keyword": "estimation",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "6",
@@ -1575,7 +1764,8 @@
               "could give a correct answer to"
             ]
           ],
-          "keyword": "answer"
+          "keyword": "answer",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "7",
@@ -1585,7 +1775,8 @@
               "started composing music as a young"
             ]
           ],
-          "keyword": "young"
+          "keyword": "young",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "8",
@@ -1595,7 +1786,8 @@
               "there is no doubt Rosie will be offered"
             ]
           ],
-          "keyword": "doubt"
+          "keyword": "doubt",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         },
         {
           "id": "9",
@@ -1606,10 +1798,401 @@
               "nearly two years since he started writing"
             ]
           ],
-          "keyword": "started"
+          "keyword": "started",
+          "hint": "Use the key word unchanged. Find the matching conversion model in the lesson and include only the words missing from the second sentence."
         }
       ],
-      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory."
+      "note": "The printed instruction says 3–8 words, but some supplied key answers exceed this when contractions are expanded. Checking follows the supplied key; the word limit is advisory.",
+      "lessonIds": [
+        "conversion"
+      ],
+      "guidance": "Keep the surrounding sentence unchanged. Use the lesson patterns and check the fixed words on both sides of the blank."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "present",
+      "title": "Present tenses",
+      "sections": [
+        {
+          "heading": "Present Simple",
+          "explanation": "Use for habits, permanent states, timetables, scientific facts, instructions and dramatic narration. Form: base verb; add -s/-es for he/she/it. Questions and negatives use do/does. Time clues: usually, often, every day, on Mondays.",
+          "examples": [
+            "He goes swimming every day.",
+            "She works in a bank.",
+            "The match begins at 8:30 next Monday evening.",
+            "Ice melts when heated.",
+            "First you chop the meat, then you fry it.",
+            "The lights go out and a figure tears out of the villa."
+          ]
+        },
+        {
+          "heading": "Present Continuous",
+          "explanation": "Form: am/is/are + -ing. Use for actions happening now, temporary situations, fixed near-future arrangements, changing trends, or repeated annoying actions with always/forever/constantly. Time clues: now, at present, at the moment, these days.",
+          "examples": [
+            "You’re always leaving the cap off the toothpaste.",
+            "He’s sleeping at the moment.",
+            "They’re hunting for a flat.",
+            "They are going on an excursion tomorrow.",
+            "Oil prices are rising at present."
+          ]
+        },
+        {
+          "heading": "Present Perfect",
+          "explanation": "Form: have/has + past participle. Use for recent completion, experience without a definite past time, results up to now, and situations continuing to the present. Time clues: since, for, yet, already, just, ever, so far, recently.",
+          "examples": [
+            "She has just painted her room.",
+            "He has written three books.",
+            "She has seen this film.",
+            "I’ve been to Berlin twice.",
+            "He has worked as a teacher for four years."
+          ]
+        },
+        {
+          "heading": "Present Perfect Continuous",
+          "explanation": "Form: have/has been + -ing. Focus on duration or activity continuing to now, present evidence of a past activity, or annoyance. Time clues: for, since, how long, lately, recently. Compare the finished result with the ongoing activity.",
+          "examples": [
+            "She has been painting her room. (It smells of paint.)",
+            "She has been waiting for two hours but there’s still no sign of him.",
+            "What have you been doing to my computer?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "states",
+      "title": "Stative verbs and been/gone",
+      "sections": [
+        {
+          "heading": "Stative verbs",
+          "explanation": "Verbs describing senses, thoughts, feelings, possession and appearance normally use simple forms: see, hear, smell, taste; think, believe, doubt; like, hate, love; belong, own, owe, seem. A continuous form can change the meaning to an activity or arrangement.",
+          "examples": [
+            "I’m seeing my dentist tomorrow.",
+            "Do you see those birds?",
+            "Be quiet, please! I’m thinking.",
+            "I think you are wrong.",
+            "We were having a good time at the party when the fire broke out.",
+            "Since you have his phone number, you can call him."
+          ]
+        },
+        {
+          "heading": "Been to / been in / gone to",
+          "explanation": "Been to means visited and returned. Been in describes staying or living somewhere for a period. Gone to means left for a place and has not returned yet.",
+          "examples": [
+            "He has been to Berlin. (= He has gone and come back.)",
+            "He has been in Buenos Aires for a year. (= He lives there.)",
+            "He has gone to Toledo. (= He hasn’t come back yet.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "title": "Future forms",
+      "sections": [
+        {
+          "heading": "Will / shall",
+          "explanation": "Use will for predictions, offers, promises, requests, spontaneous decisions, and opinions or hopes. Use shall with I/we for offers and suggestions. Form: will + base verb.",
+          "examples": [
+            "Will you help me with the dishes?",
+            "Shall I get you some coffee?",
+            "“Your clothes are dirty.” “Are they? I’ll wash them.”",
+            "I think he’ll pass the test."
+          ]
+        },
+        {
+          "heading": "Be going to",
+          "explanation": "Form: am/is/are going to + base verb. Use for intentions, plans, and predictions based on present evidence.",
+          "examples": [
+            "I know my clothes are dirty. I’m going to wash them tomorrow.",
+            "She’s going to take her driving test next month.",
+            "He doesn’t know how to light a fire. He’s going to burn himself."
+          ]
+        },
+        {
+          "heading": "Future Continuous",
+          "explanation": "Form: will be + -ing. Use for an action in progress at a future time, an assumption about what someone is doing now, or a previously planned action.",
+          "examples": [
+            "I’ll be flying to Paris this time tomorrow.",
+            "He will be sleeping now. (It’s midnight.)",
+            "I’ll be seeing Sam tonight. Would you like me to tell him the news?"
+          ]
+        },
+        {
+          "heading": "Future Perfect",
+          "explanation": "Form: will have + past participle. Use for completion before a future point and assumptions about completed actions. By/before are common in affirmative sentences; until is used in negative sentences.",
+          "examples": [
+            "By the end of July he will have been in Athens for two months.",
+            "He will have gone to sleep by now.",
+            "She will have cleaned the house by 6 o’clock.",
+            "She won’t have cleaned the house until 6 o’clock."
+          ]
+        },
+        {
+          "heading": "Future Perfect Continuous",
+          "explanation": "Form: will have been + -ing. Emphasise duration continuing up to a future point, often with by … for.",
+          "examples": [
+            "By next Sunday, they will have been living here for two weeks."
+          ]
+        },
+        {
+          "heading": "Other future expressions",
+          "explanation": "Be + to-infinitive expresses plans or instructions. Be about to + infinitive and be on the point of + -ing express the immediate future.",
+          "examples": [
+            "The meeting is to take place on Wednesday.",
+            "You are not to leave the premises until 17:00.",
+            "They are about to leave.",
+            "They are on the point of leaving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "title": "Past tenses and past habits",
+      "sections": [
+        {
+          "heading": "Past Simple",
+          "explanation": "Use for completed past actions, sequential events, past habits and events that will not recur. Form: past verb; did + base verb for questions and negatives. Clues: yesterday, ago, last week, when.",
+          "examples": [
+            "He left an hour ago.",
+            "She phoned before the boss came.",
+            "He travelled/used to travel a lot when he was young.",
+            "He stood up, picked up his briefcase and left the office.",
+            "Marilyn Monroe starred in “The Seven Year Itch”."
+          ]
+        },
+        {
+          "heading": "Past Continuous",
+          "explanation": "Form: was/were + -ing. Use for actions in progress at a past time, background interrupted by another action, simultaneous activities, and polite enquiries.",
+          "examples": [
+            "She was still working at eight o’clock yesterday evening.",
+            "She was leaving when the phone rang.",
+            "While Jane was getting dressed, Tom was enjoying his drink.",
+            "I was wondering if you could help me."
+          ]
+        },
+        {
+          "heading": "Past Perfect",
+          "explanation": "Form: had + past participle. It places one event before another past event and acts as the past equivalent of the Present Perfect.",
+          "examples": [
+            "She had already typed all the letters before her boss arrived.",
+            "Bob had always dreamed of being in a musical, but he never got the chance.",
+            "Tom has always dreamed of being in a musical; he might make it one day."
+          ]
+        },
+        {
+          "heading": "Past Perfect Continuous",
+          "explanation": "Form: had been + -ing. Use for a longer activity continuing up to another past event or with visible results at that past time.",
+          "examples": [
+            "She had been cooking all day long when Tom came home with some fish and chips.",
+            "She was covered in paint because she had been painting her room."
+          ]
+        },
+        {
+          "heading": "Used to / be used to / get used to / would",
+          "explanation": "Used to + infinitive describes a former habit or state. Be/get used to + noun or -ing means be/become accustomed to something. Would describes repeated past actions and routines, rather than past states.",
+          "examples": [
+            "This theatre used to be a hospital.",
+            "He used to work till late at night.",
+            "She isn’t used to driving on the left.",
+            "I haven’t got used to living abroad yet.",
+            "When I was at my grandparents’ cottage, I would wake up early and go for a ride."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conversion",
+      "title": "Structural conversion",
+      "sections": [
+        {
+          "heading": "Superlatives",
+          "explanation": "Compare never before with the nicest/best … ever.",
+          "examples": [
+            "I’ve never been given such a nice present before.",
+            "It’s the nicest present I’ve ever been given."
+          ]
+        },
+        {
+          "heading": "First experience",
+          "explanation": "It’s the first time + present perfect.",
+          "examples": [
+            "He’s never flown before.",
+            "It’s the first time he’s (ever) flown."
+          ]
+        },
+        {
+          "heading": "Since and for",
+          "explanation": "Since names a starting point; for names a duration.",
+          "examples": [
+            "It’s/It’s been a long time since he visited us.",
+            "He hasn’t visited us for a long time."
+          ]
+        },
+        {
+          "heading": "Asking about elapsed time",
+          "explanation": "How long ago …? / How long is it since …?",
+          "examples": [
+            "When did you leave school?",
+            "How long ago did you leave school?",
+            "How long is it since you left school?"
+          ]
+        },
+        {
+          "heading": "Last time",
+          "explanation": "Convert last time + past to a negative present perfect.",
+          "examples": [
+            "The last time I saw her was a month ago.",
+            "I haven’t seen her for a month."
+          ]
+        },
+        {
+          "heading": "Membership",
+          "explanation": "Starting membership becomes a continuing state.",
+          "examples": [
+            "He joined the golf club ten months ago.",
+            "He has been a member of the golf club for ten months."
+          ]
+        },
+        {
+          "heading": "A month since",
+          "explanation": "A month since … corresponds to a month ago.",
+          "examples": [
+            "It’s a month since she moved to Austria.",
+            "She moved to Austria a month ago."
+          ]
+        },
+        {
+          "heading": "Continuing lessons",
+          "explanation": "Present perfect continuous focuses on the activity.",
+          "examples": [
+            "She started English lessons a year ago.",
+            "She has been taking/having English lessons for a year.",
+            "It’s a year since she started taking/having English lessons."
+          ]
+        },
+        {
+          "heading": "Earlier completion",
+          "explanation": "Having + past participle and after + past perfect show sequence.",
+          "examples": [
+            "Having had dinner, I went to bed.",
+            "After having dinner, I went to bed.",
+            "After I had had dinner, I went to bed."
+          ]
+        },
+        {
+          "heading": "Prediction",
+          "explanation": "Expressions of opinion can introduce a prediction.",
+          "examples": [
+            "I think there will be a war soon.",
+            "In my opinion, there is going to be a war soon.",
+            "If you ask me, there’s bound to be a war soon.",
+            "In my estimation, war is imminent."
+          ]
+        },
+        {
+          "heading": "Belief",
+          "explanation": "Negative beliefs can be reworded.",
+          "examples": [
+            "I don’t believe that he’ll agree.",
+            "It’s my belief that he won’t agree.",
+            "I have a feeling that he won’t agree.",
+            "There’s no reason to believe that he’ll agree."
+          ]
+        },
+        {
+          "heading": "While / when",
+          "explanation": "A time clause can be shortened or emphasised with a cleft.",
+          "examples": [
+            "While I was walking down the street, I saw Mary.",
+            "While walking down the street, I saw Mary.",
+            "When I was walking down the street, I saw Mary.",
+            "It was while I was walking down the street that I saw Mary."
+          ]
+        },
+        {
+          "heading": "Response / respond",
+          "explanation": "A noun phrase can become a verb phrase.",
+          "examples": [
+            "Was there any response to his appeal?",
+            "Did anyone respond to his appeal?"
+          ]
+        },
+        {
+          "heading": "Scheduled events",
+          "explanation": "Use take place, be held, or be scheduled.",
+          "examples": [
+            "The race takes place tomorrow.",
+            "The race will/is going to be held/take place tomorrow.",
+            "The race is scheduled to take place/for tomorrow."
+          ]
+        },
+        {
+          "heading": "Not until",
+          "explanation": "Not until at the start requires inversion in the main clause.",
+          "examples": [
+            "She started doing her homework as soon as her brother had left for school.",
+            "She started doing her homework when her brother had left for school.",
+            "She didn’t start (doing) her homework until her brother had left for school.",
+            "She waited until her brother had left for school before she started (doing) her homework.",
+            "Not until her brother had left for school did she start (doing) her homework."
+          ]
+        },
+        {
+          "heading": "Last haircut",
+          "explanation": "When did you last …? / When was the last time …?",
+          "examples": [
+            "When did you last have a haircut?",
+            "When was the last time you had a haircut?"
+          ]
+        },
+        {
+          "heading": "While / during",
+          "explanation": "While introduces a clause; during introduces a noun phrase.",
+          "examples": [
+            "She wrote the book while she was on holiday.",
+            "She wrote the book during her holiday."
+          ]
+        },
+        {
+          "heading": "Duration as a noun",
+          "explanation": "An hour’s sleep expresses a duration.",
+          "examples": [
+            "I only slept for an hour last night.",
+            "I only had an hour’s sleep last night."
+          ]
+        },
+        {
+          "heading": "Certainty",
+          "explanation": "Bound to and no doubt express certainty.",
+          "examples": [
+            "It is certain that he’ll pass his exams.",
+            "There is no doubt that he’ll pass his exams.",
+            "He is bound to pass his exams."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "collocations",
+      "title": "Collocations",
+      "sections": [
+        {
+          "heading": "Verb + noun",
+          "explanation": "Learn these combinations as complete chunks. The completed expressions below come from exercise 12 and the supplied key.",
+          "examples": [
+            "heal a wound",
+            "concede defeat",
+            "devour a meal",
+            "raze a city",
+            "mow the grass",
+            "interrupt a speech",
+            "flout the law",
+            "imitate somebody’s behaviour"
+          ]
+        }
+      ]
     }
   ]
 }

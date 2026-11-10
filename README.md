@@ -1,6 +1,6 @@
-# English Practice
+# English Practice — lessons and practice (v2)
 
-A static, responsive CPE English workbook. No framework, build process, server, account, or paid service is required. All exercise content and accepted answers live in unit JSON files.
+A static, responsive CPE English workbook with lesson material and practice. No framework, build process, server, account, or paid service is required. All exercise content and accepted answers live in unit JSON files.
 
 ## Publish on GitHub Pages
 
@@ -14,6 +14,14 @@ Everything uses relative URLs, so repository subpaths work. For the workflow, re
 ## Run locally
 
 From this folder run `python3 -m http.server 8000`, then open `http://localhost:8000`. Use a web server: double-clicking `index.html` opens a `file://` URL and browsers generally block loading the unit JSON and ES modules that way.
+
+## Lessons and guided practice
+
+Both Unit 1a and Unit 1b appear in the unit selector. Start with **Learn the lesson** to read the rules, reference phrases and document-based examples, then select **Practice questions**. The original exercise numbers are preserved. Expand **Review the lesson for this exercise** for relevant rules without leaving your questions. **Need a hint?** gives guidance without immediately revealing the answer. For passage exercises, each question includes its sentence from the document. Select a blank then click a word-bank button to insert a phrase; typing remains available.
+
+Unit 1a includes the present, future and past tense reference material; stative verbs; been/gone; used to/would; all 19 structural-conversion models; and collocations. Unit 1b includes all supplied phrasal-verb, idiom and fixed-phrase boxes, plus editorial guidance based on its reading, preposition, transformation, word-usage and collocation exercises. Examples are transcribed from the documents or completed worksheet sentences, not unrelated invented sentences.
+
+The supplied official key covers Unit 1b exercises 16–19 only. Answers for exercises 20–27 are **suggested editorial answers**, labelled in the app and JSON. The missing Appendices 1 and 5 were not reconstructed as if they were supplied: guidance for those exercises is explicitly based on the visible sentences. Near-synonyms may be possible without the official key; exercise 26 question 3 accepts dodge, duck and evade, and exercise 27 accepts false/artificial pearls. Update these alternatives if you later obtain the official key.
 
 ## Practice
 
@@ -32,7 +40,7 @@ From this folder run `python3 -m http.server 8000`, then open `http://localhost:
 2. Upload that single file to the repository's `units` folder. No HTML or JavaScript change is required.
 3. In the app, select **Add a unit**, enter `unit-1b.json`, and click **Open unit**. The unit is then available in that browser's unit selector.
 
-You can also open or share `https://YOUR-NAME.github.io/YOUR-REPOSITORY/?unit=unit-1b.json`. Each browser must open a new hosted unit once before it appears in its selector; static GitHub Pages cannot list a folder automatically. No manifest needs editing. **Import unit JSON** instead loads a local file into the current browser without uploading it to the repository.
+You can also open or share `https://YOUR-NAME.github.io/YOUR-REPOSITORY/?unit=unit-1b.json`. Each browser must open a new hosted unit once before it appears in its selector; static GitHub Pages cannot list a folder automatically. The two bundled units load from `units/catalog.json`. No catalog editing is needed for future units opened through Add a unit or a direct unit URL. Optionally append a new filename to that catalog to show it automatically for every visitor. **Import unit JSON** instead loads a local file into the current browser without uploading it to the repository.
 
 An imported replacement with the same ID and changed content asks before clearing the previous progress. Use distinct IDs for different units. Updating a hosted JSON does not silently replace an already cached unit; reopen it via **Add a unit** or its `?unit=` link.
 
@@ -68,7 +76,7 @@ See `units/unit-template.json` for editable examples and `units/unit.schema.json
 
 ## Answer checking and source notes
 
-The included Unit 1a has **15 exercises, 130 numbered questions and 143 answer gaps**. Check `tests/content.test.js` for exact counts. All numbered exercises 1–15 from pages 7, 9 and 11–14 are transcribed, including the passages for exercises 3, 4, 6 and 10. Completed examples are shown but not scored. The supplied key's Unit 1b material is outside the attached exercise pages, so is not invented as an additional unit.
+The included Unit 1a has **15 exercises, 130 numbered questions and 143 answer gaps**. Check `tests/content.test.js` for exact counts. All numbered exercises 1–15 from pages 7, 9 and 11–14 are transcribed, including the passages for exercises 3, 4, 6 and 10. Completed examples are shown but not scored. Unit 1b is now included separately, transcribed from the five supplied images of pages 15–19: 12 exercises (16–27), 120 questions and 121 answer gaps.
 
 `references/worksheet.pdf` preserves the full original worksheet, including the reference tables on present, future and past tenses, stative verbs, used to/would, and structural conversion. `references/answer-key.pdf` preserves the supplied key.
 
@@ -81,11 +89,18 @@ Some printed transformation keys exceed the printed 3–8-word limit, especially
 - `index.html`, `styles.css`: interface and responsive styling.
 - `app.js`: loading, navigation, local saving, import/export and interaction.
 - `engine.js`: validation and answer comparison.
-- `units/unit-1a.json`: complete exercise and answer data.
+- `units/unit-1a.json`, `units/unit-1b.json`: separate lesson, exercise and answer data.
+- `units/catalog.json`: filenames of units shown automatically at startup.
 - `units/unit-template.json`: small teaching example for the next unit, not a transcription of Unit 1b.
 - `units/unit.schema.json`: reusable JSON Schema for editors.
 - `references/`: original PDFs for reference.
 - `.github/workflows/pages.yml`: optional GitHub Pages deployment.
 - `tests/`: dependency-free tests. Run `npm test` with Node.js 20+.
+
+## Optional lesson fields for future JSON units
+
+Add a `lessons` array to a unit. Each lesson has a unique string `id`, a `title`, and a `sections` array. Each section has `heading`, `explanation` and `examples` (an array of strings). Put document sentences in `examples`. Link an exercise with `lessonIds: ["your-lesson-id"]`. Optional exercise `guidance` adds an approach note; optional question `hint` adds a collapsible clue. Optional `answerSource` on an exercise identifies official versus suggested keys. These fields are illustrated in the updated template and formal schema. Older exercise-only JSON files still work.
+
+On startup, bundled units are refreshed from the catalog to load new lesson material while retaining existing progress keyed by unit/exercise/question IDs. Keep IDs and answer gap counts stable for an existing unit; give a substantially rewritten unit a new ID. Imported custom units remain saved locally.
 
 The app loads no external fonts, scripts, analytics or tracking. It works without an internet connection while a loaded page remains open, but reloading offline is not supported. Native text inputs, explicit labels, keyboard focus outlines, live answer feedback and a responsive layout support accessible practice.

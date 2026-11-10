@@ -14,14 +14,18 @@ test('checking, reveal exclusion, reset, navigation, hosted import and backup/re
  globalThis.history={replaceState(){}};
  globalThis.confirm=()=>true;
  globalThis.alert=message=>assert.fail(message);
- globalThis.fetch=async url=>({ok:true,json:async()=>String(url).includes('unit-1b')?structuredClone(template):structuredClone(unit)});
+ globalThis.fetch=async url=>({ok:true,json:async()=>String(url).includes('catalog.json')?['unit-1a.json','unit-1b.json']:String(url).includes('unit-1b')?structuredClone(template):structuredClone(unit)});
  await import('../app.js');await new Promise(r=>setTimeout(r,20));
  assert.equal(element('progressText').textContent,'0 / 143');
  function enter(qi,gap,value){const body={querySelector(){return{innerHTML:''};},querySelectorAll(){return[];}};element('exerciseCard').listeners.input({target:{matches:()=>true,dataset:{qi:String(qi),gap:String(gap)},value,closest:()=>body}});}
  enter(0,0,'is he leaving');enter(0,1,'is playing');
  assert.equal(element('progressText').textContent,'2 / 143');
  element('checkAll').onclick();assert.equal(element('correctText').textContent,'2 / 143');
- element('exerciseCard').listeners.click({target:{closest:()=>({dataset:{action:'reveal',qi:'0'}})}});
+ assert.match(element('lessonContent').innerHTML,/Present Simple/);
+ element('practiceTab').onclick();assert.equal(element('exerciseCard').hidden,false);
+ assert.match(element('exerciseCard').innerHTML,/Review the lesson/);
+ element('learnTab').onclick();assert.equal(element('exerciseCard').hidden,true);
+ element('exerciseCard').listeners.click({target:{closest:selector=>selector==='[data-action]'?({dataset:{action:'reveal',qi:'0'}}):null}});
  assert.equal(element('correctText').textContent,'0 / 143');
  element('checkAll').onclick();assert.equal(element('correctText').textContent,'0 / 143');
  element('reset').onclick();assert.equal(element('progressText').textContent,'0 / 143');
